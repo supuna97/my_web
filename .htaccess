@@ -1,4 +1,4 @@
-ErrorDocument 404 /page-not-found.php
+ErrorDocument 404 /page_not_found.php
 #Not Found
 
 RewriteEngine On
