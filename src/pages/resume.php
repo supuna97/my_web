@@ -143,7 +143,7 @@
                                         <h6 class="timeline-title">Senior Software Engineer - Union Assurance John Keels IT (pvt) Ltd.</h6>
                                     </div>
                                     <div class="timeline-content">
-                                        <p>I'm working with Php and Javascript platforms, 
+                                        <p>I'm working with Php, Python and Javascript platforms, 
                                             Web Apps development (PHP - Laravel / Reactjs / Azure / Devops / Mysql / SQL / Oracle / Node)  of extreme projects.</p>
                                     </div>
                                 </div>
