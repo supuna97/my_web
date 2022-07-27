@@ -13,8 +13,6 @@
     <script src="assets/js/isotope.pkgd.min.js"></script>
     <!--  Magnific Popup Js  -->
     <script src="assets/js/jquery.magnific-popup.min.js"></script>
-    <!-- Map Js -->
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDRemITiP7JRWpZwLhVt-T2x5MeUFE2KWs"></script>
     <!--  Arshia Js  -->
     <script src="assets/js/arshia.js"></script>
     <!-- disabled -->
