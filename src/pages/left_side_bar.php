@@ -1,7 +1,7 @@
-<div class="left-side  nav-close">
+<div class="left-side nav-close">
     <div class="menu-content-align">
         <div class="left-side-image">
-            <img src="assets/img/12.jpeg" alt="/">
+            <img src="assets/img/my_11.jpeg" alt="supun nanayakkara">
         </div>
         <h1 class="mt-1">Supun Nanayakkara</h1>
         <div class="container d-lg-none d-inline-block">
@@ -15,7 +15,7 @@
     <div class="menu-align">
         <ul class="list-group menu text-center " id="menu">
             <li class="list-group-item">
-                <a href="#hero">
+                <a href="#home">
                     <i class="bi bi-house"></i>
                     <span>home</span>
                 </a>
