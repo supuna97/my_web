@@ -5,7 +5,7 @@
             <div class="row">
                 <div class="col-lg-5">
                     <div class="about-img">
-                        <img src="assets/img/12.jpeg" alt="/">
+                        <img src="assets/img/my_11.jpeg" alt="supun nanayakkara">
                         <div class="border-img"></div>
                     </div>
                 </div>
@@ -25,15 +25,19 @@
                                 </li>
                                 <li>Phone : <small>+94 717 999 676</small>
                                 </li>
-                                <li>City : <small> Aluthgama, Sri Lanka</small>
+                                <li>City : <small>Aluthgama, Sri Lanka</small>
+                                </li>
+                                <li>Civil Status : <small>Single</small>
                                 </li>
                             </ul>
                         </div>
                         <div class="col-lg-6">
                             <ul class="list-unstyled personal-info">
-                                <li>Age : <small>24</small>
+                                <li>Age : <small>25</small>
                                 </li>
-                                <li>Degree : <small>Bsc(hons) Software Engineering</small>
+                                <li>University : <small>Cardiff Met University UK</small>
+                                </li>
+                                <li>Degree : <small>Bsc (hons) in Software Engineering</small>
                                 </li>
                                 <li>Freelance : <small>Available</small>
                                 </li>
