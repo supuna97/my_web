@@ -1,12 +1,6 @@
 <section id="contact" class="section contact w-100">
             <div class="container">
                 <h3 class="subtitle">Get in Touch</h3>
-                <!-- Map -->
-                <div class="row mt-5">
-                    <div class="col-lg-12">
-                        <div id="my-map" data-location-lat="6.4401682" data-location-lng="80.0234157" data-location-icon="assets/img/location-map.png"></div>
-                    </div>
-                </div>
                 <div class="row mt-4">
                     <!-- Address Info -->
                     <div class="col-12 col-xl-5">
