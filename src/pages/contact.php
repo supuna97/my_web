@@ -37,7 +37,7 @@
                                     </div>
                                     <div class="info-text">
                                         <h5>Visit Address</h5>
-                                        <small>143/ A 01, Moralagoda, dhargatown, Sri Lanka</small>
+                                        <small>Colombo, Sri Lanka</small>
                                     </div>
                                 </div>
                             </div>
