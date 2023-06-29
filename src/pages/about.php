@@ -335,7 +335,7 @@
                                 <i class="bi bi-circle-fill"></i>
                             </li>
                             <li class="list-inline-item">
-                                <i class="bi bi-circle"></i>
+                                <i class="bi bi-circle-fill"></i>
                             </li>
                             <li class="list-inline-item">
                                 <i class="bi bi-circle"></i>
