@@ -25,7 +25,7 @@
                                 </li>
                                 <li>Phone : <small>+94 717 999 676</small>
                                 </li>
-                                <li>City : <small>Aluthgama, Sri Lanka</small>
+                                <li>City : <small>Colombo, Sri Lanka</small>
                                 </li>
                                 <li>Civil Status : <small>Single</small>
                                 </li>
@@ -35,7 +35,7 @@
                             <ul class="list-unstyled personal-info">
                                 <li>Age : <small>25</small>
                                 </li>
-                                <li>University : <small>Cardiff Met University UK</small>
+                                <li>University : <small>Cardiff Met University in UK</small>
                                 </li>
                                 <li>Degree : <small>Bsc (hons) in Software Engineering</small>
                                 </li>
@@ -100,7 +100,7 @@
                     <ul class="knowledge-item">
                         <li>Programming</li>
                         <li>Social Media Marketing</li>
-                        <li>Short Animationsg</li>
+                        <li>Short Animations</li>
                         <li>Teaching Web Apps Development</li>
                     </ul>
                 </div>
@@ -124,17 +124,17 @@
                     <!-- Item 02 -->
                     <div class="col-lg-12 skill-box">
                         <div class="skill-text">
-                            <div class="skillbar-title">PHP - Laravel</div>
-                            <div class="skill-bar-percent"><span data-from="0" data-to="80" data-speed="4000">80</span>%</div>
+                            <div class="skillbar-title">PHP</div>
+                            <div class="skill-bar-percent"><span data-from="0" data-to="75" data-speed="4000">75</span>%</div>
                         </div>
-                        <div class="skillbar clearfix" data-percent="80%">
+                        <div class="skillbar clearfix" data-percent="75%">
                             <div class="skillbar-bar"></div>
                         </div>
                     </div>
                     <!-- Item 03 -->
                     <div class="col-lg-12 skill-box">
                         <div class="skill-text">
-                            <div class="skillbar-title">ReactJS</div>
+                            <div class="skillbar-title">Python</div>
                             <div class="skill-bar-percent"><span data-from="0" data-to="50" data-speed="4000">50</span>%</div>
                         </div>
                         <div class="skillbar clearfix" data-percent="50%">
@@ -144,7 +144,7 @@
                     <!-- Item 04 -->
                     <div class="col-lg-12 skill-box">
                         <div class="skill-text">
-                            <div class="skillbar-title">NodeJS</div>
+                            <div class="skillbar-title">ReactJS</div>
                             <div class="skill-bar-percent"><span data-from="0" data-to="50" data-speed="4000">50</span>%</div>
                         </div>
                         <div class="skillbar clearfix" data-percent="50%">
@@ -154,7 +154,7 @@
                     <!-- Item 05 -->
                     <div class="col-lg-12 skill-box">
                         <div class="skill-text">
-                            <div class="skillbar-title">Python</div>
+                            <div class="skillbar-title">NodeJS</div>
                             <div class="skill-bar-percent"><span data-from="0" data-to="50" data-speed="4000">50</span>%</div>
                         </div>
                         <div class="skillbar clearfix" data-percent="50%">
@@ -264,7 +264,7 @@
                                 <i class="bi bi-circle-fill"></i>
                             </li>
                             <li class="list-inline-item">
-                                <i class="bi bi-circle"></i>
+                                <i class="bi bi-circle-fill"></i>
                             </li>
                             <li class="list-inline-item">
                                 <i class="bi bi-circle"></i>
