@@ -5,7 +5,7 @@
                     <div class="row">
                         <div class="col-lg-12 text-center text-lg-start">
                             <div class="hero-image d-inline-block d-lg-none">
-                                <img src="assets/img/me.jpeg" alt="supun nanayakkara">
+                                <img src="assets/img/me1_1.jpeg" alt="supun nanayakkara">
                             </div>
                             <div class="hero-content mt-4 mx-auto mx-lg-0 text-lg-left mt-lg-none">
                                 <p class="base-color">Professional Software Engineer / Programmer</p>
