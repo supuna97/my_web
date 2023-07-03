@@ -5,7 +5,7 @@
             <div class="row">
                 <div class="col-lg-5">
                     <div class="about-img">
-                        <img src="assets/img/me1.jpeg" alt="supun nanayakkara">
+                        <img src="assets/img/img-2.jpg" alt="supun nanayakkara">
                         <div class="border-img"></div>
                     </div>
                 </div>
