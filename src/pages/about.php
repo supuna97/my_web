@@ -5,7 +5,7 @@
             <div class="row">
                 <div class="col-lg-5">
                     <div class="about-img">
-                        <img src="assets/img/img-2.jpg" alt="supun nanayakkara">
+                        <img src="assets/img/supun-3.jpg" alt="supun nanayakkara">
                         <div class="border-img"></div>
                     </div>
                 </div>
@@ -33,7 +33,7 @@
                         </div>
                         <div class="col-lg-6">
                             <ul class="list-unstyled personal-info">
-                                <li>Age : <small>25</small>
+                                <li>Age : <small>26</small>
                                 </li>
                                 <li>University : <small>Cardiff Met University in UK</small>
                                 </li>
@@ -145,9 +145,9 @@
                     <div class="col-lg-12 skill-box">
                         <div class="skill-text">
                             <div class="skillbar-title">ReactJS</div>
-                            <div class="skill-bar-percent"><span data-from="0" data-to="50" data-speed="4000">50</span>%</div>
+                            <div class="skill-bar-percent"><span data-from="0" data-to="70" data-speed="4000">70</span>%</div>
                         </div>
-                        <div class="skillbar clearfix" data-percent="50%">
+                        <div class="skillbar clearfix" data-percent="70%">
                             <div class="skillbar-bar"></div>
                         </div>
                     </div>
@@ -155,9 +155,9 @@
                     <div class="col-lg-12 skill-box">
                         <div class="skill-text">
                             <div class="skillbar-title">NodeJS</div>
-                            <div class="skill-bar-percent"><span data-from="0" data-to="50" data-speed="4000">50</span>%</div>
+                            <div class="skill-bar-percent"><span data-from="0" data-to="60" data-speed="4000">60</span>%</div>
                         </div>
-                        <div class="skillbar clearfix" data-percent="50%">
+                        <div class="skillbar clearfix" data-percent="60%">
                             <div class="skillbar-bar"></div>
                         </div>
                     </div>
