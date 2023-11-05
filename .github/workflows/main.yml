@@ -1,0 +1,17 @@
+on:
+    push:
+        branches:
+            - main
+name: Deploy website on push
+jobs:
+    web-deploy:
+        name: Deploy
+        runs-on: ubuntu-latest
+        steps:
+            - name: Get latest code
+              uses: Samkirkland/FTP-Deploy-Action@4.3.0
+              with:
+                  server: ftp.traditionalme.life
+                  username: ${{ secrets.USERNAME }}
+                  password: ${{ secrets.PASSWORD }}
+                  server-dir: /supun/
