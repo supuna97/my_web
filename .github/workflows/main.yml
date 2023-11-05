@@ -11,7 +11,7 @@ jobs:
             - name: Get latest code
               uses: Samkirkland/FTP-Deploy-Action@4.3.0
               with:
-                  server: ftp.traditionalme.life
-                  username: ${{ secrets.USERNAME }}
-                  password: ${{ secrets.PASSWORD }}
+                  server: www.traditionalme.life
+                  username: data@supun.traditionalme.life
+                  password: geeksonu@9676
                   server-dir: /supun/
