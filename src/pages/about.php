@@ -135,9 +135,9 @@
                     <div class="col-lg-12 skill-box">
                         <div class="skill-text">
                             <div class="skillbar-title">Python</div>
-                            <div class="skill-bar-percent"><span data-from="0" data-to="50" data-speed="4000">50</span>%</div>
+                            <div class="skill-bar-percent"><span data-from="0" data-to="60" data-speed="4000">60</span>%</div>
                         </div>
-                        <div class="skillbar clearfix" data-percent="50%">
+                        <div class="skillbar clearfix" data-percent="60%">
                             <div class="skillbar-bar"></div>
                         </div>
                     </div>
@@ -155,9 +155,9 @@
                     <div class="col-lg-12 skill-box">
                         <div class="skill-text">
                             <div class="skillbar-title">NodeJS</div>
-                            <div class="skill-bar-percent"><span data-from="0" data-to="60" data-speed="4000">60</span>%</div>
+                            <div class="skill-bar-percent"><span data-from="0" data-to="65" data-speed="4000">65</span>%</div>
                         </div>
-                        <div class="skillbar clearfix" data-percent="60%">
+                        <div class="skillbar clearfix" data-percent="65%">
                             <div class="skillbar-bar"></div>
                         </div>
                     </div>
