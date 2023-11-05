@@ -54,7 +54,7 @@
 
     <!--  Mobile Next and Prev Button Start -->
     <div class="next-prev-page d-block d-lg-none">
-        <button type="button" class="prev-page bg-base-color hstack">      
+        <button type="button" class="prev-page bg-base-color hstack">
         <i class="bi bi-chevron-compact-left mx-auto"></i>
       </button>
         <button type="button" class="next-page bg-base-color mt-1 mt-lg-3 hstack">
@@ -82,7 +82,6 @@
 
     <!--  JavaScripts  -->
     <?php include 'src/pages/js.php'; ?>
-
 </body>
 
 </html>
