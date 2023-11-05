@@ -1,7 +1,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <title>Supun Nanayakkara - Software Engineer / Programmer</title>
+    <title>Supun Nanayakkara - Senior Software Engineer / Team Lead</title>
     <meta name="description" content="Hello guys! I'm Supun Nanayakkara. I am fascinated by how computer technology has brought changes to our
                             lives that could never have been predicted; witnessing the expansion of computer science
                             allowed me to consider studying software engineering from an early age, and my enthusiasm
