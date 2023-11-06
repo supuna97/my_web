@@ -16,5 +16,4 @@ jobs:
       with:
         server: www.traditionalme.life
         username: ${{ secrets.USERNAME }}
-        password: ${{ secrets.PASSWORD }}
-        server-dir: supun/                  
+        password: ${{ secrets.PASSWORD }}                  
