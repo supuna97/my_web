@@ -21,20 +21,18 @@
                     <div class="row">
                         <div class="col-lg-6">
                             <ul class="list-unstyled personal-info">
-                                <li>Email : <small>supunnanayakkara01@gmail.com</small>
-                                </li>
                                 <li>Phone : <small>+94 717 999 676</small>
                                 </li>
                                 <li>City : <small>Colombo, Sri Lanka</small>
                                 </li>
                                 <li>Civil Status : <small>Single</small>
                                 </li>
+                                <li>Age : <small>26</small>
+                                </li>
                             </ul>
                         </div>
                         <div class="col-lg-6">
                             <ul class="list-unstyled personal-info">
-                                <li>Age : <small>26</small>
-                                </li>
                                 <li>University : <small>Cardiff Met University in UK</small>
                                 </li>
                                 <li>Degree : <small>Bsc (hons) in Software Engineering</small>
