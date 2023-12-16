@@ -9,18 +9,6 @@
                     <div class="col-lg-12">
                         <div class="info-box">
                             <div class="item-icon">
-                                <i class="bi bi-envelope-open"></i>
-                            </div>
-                            <div class="info-text">
-                                <h5>Mail Me</h5>
-                                <small>supunnanayakkara01@gmail.com</small>
-                            </div>
-                        </div>
-                    </div>
-                    <!--  Item 02 -->
-                    <div class="col-lg-12">
-                        <div class="info-box">
-                            <div class="item-icon">
                                 <i class="bi bi-telephone"></i>
                             </div>
                             <div class="info-text">
@@ -29,7 +17,7 @@
                             </div>
                         </div>
                     </div>
-                    <!--  Item 03 -->
+                    <!--  Item 02 -->
                     <div class="col-lg-12">
                         <div class="info-box">
                             <div class="item-icon">
@@ -73,7 +61,6 @@
                                     <div class="pill-btn mt-4 mb-3">
                                         <button type="submit" class="secondary-button"> Send Message </button>
                                     </div>
-
                                 </div>
                             </div>
                         </form>
