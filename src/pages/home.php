@@ -12,29 +12,8 @@
                         <h2>Hello , I’m <span class="base-color">Supun Nanayakkara </span>
                         Welcome to my Place. </h2>
                     </div>
-                    <br><br><br>
                 </div>
             </div>
-        </div>
-    </div>
-
-    <div class="hero-footer d-block d-lg-none">
-        <div class="social d-lg-none mb-4 d-block">
-        <a target="_blank" href="https://wa.me/0717999676" class="d-inline-block">
-            <i class="bi bi-whatsapp"></i>
-        </a>
-        <a target="_blank" href=" https://www.linkedin.com/in/supunnanayakkara/" class="d-inline-block mx-4">
-            <i class="bi bi-linkedin"></i>
-        </a>
-        <a target="_blank" href="https://www.instagram.com/supun___lk/" class="d-inline-block">
-            <i class="bi bi-instagram"></i>
-        </a>
-        <a target="_blank" href="https://www.facebook.com/supun.nanayakkaraii/" class="d-inline-block mx-4">
-            <i class="bi bi-facebook"></i>
-        </a>
-        <a target="_blank" href="https://github.com/supuna97" class="d-inline-block">
-            <i class="bi bi-github"></i>
-        </a>
         </div>
     </div>
 </section>
