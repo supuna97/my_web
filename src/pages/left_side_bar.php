@@ -51,7 +51,6 @@
                 </a>
             </li>
         </ul>
-        <br><br>
         <div class="menu-footer">
             <div class="social d-lg-none d-block">
                 <a target="_blank" href="https://wa.me/0717999676" class="d-inline-block">
@@ -66,7 +65,7 @@
                 <a target="_blank" href="https://www.facebook.com/supun.nanayakkaraii/" class="d-inline-block mx-4">
                     <i class="bi bi-facebook"></i>
                 </a>
-                <a target="_blank" href="https://github.com/supuna97">
+                <a target="_blank" href="https://github.com/supuna97" class="d-inline-block">
                     <i class="bi bi-github"></i>
                 </a>
             </div>
