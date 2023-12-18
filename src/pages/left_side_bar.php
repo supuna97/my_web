@@ -7,7 +7,7 @@
         <div class="container d-lg-none d-inline-block">
             <div class="row">
                 <div class="col-12 text-center">
-                    <p class="text-muted mb-0">Professional Software Engineer / Programmer</p>
+                    <p class="text-muted mb-0">Professional Senior Software Engineer / Team Lead</p>
                 </div>
             </div>
         </div>
@@ -51,8 +51,8 @@
                 </a>
             </li>
         </ul>
+        <br><br>
         <div class="menu-footer">
-
             <div class="social d-lg-none d-block">
                 <a target="_blank" href="https://wa.me/0717999676" class="d-inline-block">
                     <i class="bi bi-whatsapp"></i>
