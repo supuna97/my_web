@@ -5,9 +5,9 @@
             <span>Follow Me</span>
         </div>
         <div class="social d-none d-lg-block">
-            <!-- <a target="_blank" href="https://wa.me/0717999676">
+            <a target="_blank" href="https://wa.me/0717999676">
                 <i class="bi bi-whatsapp"></i>
-            </a> -->
+            </a>
             <a target="_blank" href=" https://www.linkedin.com/in/supunnanayakkara/">
                 <i class="bi bi-linkedin"></i>
             </a>
