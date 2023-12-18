@@ -1,7 +1,7 @@
 <div class="left-side nav-close">
     <div class="menu-content-align">
         <div class="left-side-image">
-            <img src="assets/img/supun-1.jpg" alt="supun nanayakkara">
+            <img src="assets/img/my_new22.jpg" alt="supun nanayakkara">
         </div>
         <h1 class="mt-1">Supun Nanayakkara</h1>
         <div class="container d-lg-none d-inline-block">
