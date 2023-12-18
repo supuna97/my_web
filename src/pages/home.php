@@ -12,7 +12,7 @@
                         <h2>Hello , I’m <span class="base-color">Supun Nanayakkara </span>
                         Welcome to my Place. </h2>
                     </div>
-                    <br>
+                    <br><br><br>
                 </div>
             </div>
         </div>
