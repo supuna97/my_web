@@ -16,7 +16,7 @@
 <!--  Arshia Js  -->
 <script src="assets/js/arshia.js"></script>
 <!-- disabled -->
-<script type="text/javascript">
+<!-- <script type="text/javascript">
     window.oncontextmenu = function () {
         return false;
     }
@@ -28,4 +28,4 @@
             return false;
         }
     });
-</script>
+</script> -->
