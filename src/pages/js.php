@@ -16,16 +16,17 @@
 <!--  Arshia Js  -->
 <script src="assets/js/arshia.js"></script>
 <!-- disabled -->
-<!-- <script type="text/javascript">
+<script type="text/javascript">
     window.oncontextmenu = function () {
         return false;
     }
     $(document).keydown(function (event) {
         if (event.keyCode == 123) {
             return false;
-        }
-        else if ((event.ctrlKey && event.shiftKey && event.keyCode == 73) || (event.ctrlKey && event.shiftKey && event.keyCode == 74)) {
+        } else if (event.ctrlKey && event.shiftKey && event.keyCode == 73) {
+            return false;
+        } else if (event.ctrlKey && event.shiftKey && event.keyCode == 74) {
             return false;
         }
     });
-</script> -->
+</script>
