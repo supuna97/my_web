@@ -11,7 +11,7 @@
                 </div>
                 <div class="col-lg-7">
                     <div class="about-description">
-                        <h3 class="mb-3">A short story about me , my mission, thinking and craft.</h3>
+                        <h3 class="mb-3">A short story about me, my mission, thinking, and craft.</h3>
                         <p class="about-text">Hello guys! I'm Supun Nanayakkara. I am fascinated by how computer technology has brought changes to our
                             lives that could never have been predicted; witnessing the expansion of computer science
                             allowed me to consider studying software engineering from an early age, and my enthusiasm

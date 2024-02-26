@@ -12,7 +12,7 @@
                                 <i class="bi bi-telephone"></i>
                             </div>
                             <div class="info-text">
-                                <h5>Call me On</h5>
+                                <h5>Call me on:</h5>
                                 <small>+94 717 999 676</small>
                             </div>
                         </div>
@@ -24,7 +24,7 @@
                                 <i class="bi bi-map"></i>
                             </div>
                             <div class="info-text">
-                                <h5>Visit Address</h5>
+                                <h5>Visit Address:</h5>
                                 <small>Colombo, Sri Lanka</small>
                             </div>
                         </div>
@@ -39,7 +39,7 @@
                             <div class="row">
                                 <div class="col-lg-12 form-item">
                                     <div class="form-group">
-                                        <input name="name" id="name" type="text" class="form-control" placeholder="Complate Name*" required>
+                                        <input name="name" id="name" type="text" class="form-control" placeholder="Comlpete Name*" required>
                                     </div>
                                 </div>
                                 <div class="col-lg-12 form-item">

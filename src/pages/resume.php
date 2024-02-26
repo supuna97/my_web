@@ -50,8 +50,8 @@
                         <div class="services-box">
                             <i class="bi bi-badge-ad services-icon"></i>
                             <div class="services-content">
-                                <h6 class="services-head">Advetising</h6>
-                                <p class="services-description mb-0">In a professional context it often happens that private or corporate clients corder a publication to be made.</p>
+                                <h6 class="services-head">Advertising</h6>
+                                <p class="services-description mb-0">In a professional context it often happens that private or corporate clients order a publication to be made.</p>
                             </div>
                         </div>
                     </div>

@@ -10,7 +10,7 @@
                     <div class="hero-content mt-4 mx-auto mx-lg-0 text-lg-left mt-lg-none">
                         <p class="base-color">Professional Senior Software Engineer / Team Lead</p>
                         <h2>Hello , I’m <span class="base-color">Supun Nanayakkara </span>
-                        Welcome to my Place. </h2>
+                        . Welcome to my Place. </h2>
                     </div>
                 </div>
             </div>
